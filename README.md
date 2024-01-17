@@ -1,5 +1,5 @@
 # DVDrental-SQL Questions
--Display the customer names that share the same address (e.g. husband and wife).
+### -Display the customer names that share the same address (e.g. husband and wife).
 -What is the name of the customer who made the highest total payments.
 -What is the movie(s) that was rented the most.
 -Which movies have been rented so far.
